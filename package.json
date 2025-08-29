@@ -1,0 +1,48 @@
+{
+  "name": "country-code-selector-weweb",
+  "version": "1.0.0",
+  "description": "A Vue 3 country code selector component with search, flags, and customizable styling for WeWeb",
+  "main": "element.vue",
+  "keywords": [
+    "vue",
+    "vue3",
+    "country-selector",
+    "phone-input",
+    "country-code",
+    "weweb",
+    "component",
+    "flags",
+    "searchable"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.0",
+    "libphonenumber-js": "^1.10.0"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "vue-template-compiler": "^2.7.0"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "files": [
+    "config.js",
+    "element.vue",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/country-code-selector-weweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/country-code-selector-weweb/issues"
+  },
+  "homepage": "https://github.com/yourusername/country-code-selector-weweb#readme"
+}
